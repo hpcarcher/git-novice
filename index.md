@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson Title
+title: Version Control with Git
 ---
 Paragraph of introductory material.
 
